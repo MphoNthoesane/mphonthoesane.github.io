@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Dancing+Script&family=Pacifico&display=swap');
+
+body{
+    background-color:#264f91;
+    color: rgb(228, 231, 214);
+}
+.profile {
+    display: flex;
+    padding: 5%;
+}
+.mypic {
+    border: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    padding: 8px;
+    background-color: #fff;
+    border-color: #1c59ba;
+
+    
+}
+.pic {
+    border-radius: 50%;
+}
+.text{ 
+    font-family: 'Agbalumo';
+    padding: 10px;
+    font-size: 25px;
+    color: #f0ebeb;
+}
+hr{
+    width: 90%;
+    height: 7px;
+    background-color: #f0ebeb;
+    border-radius: 3px;
+
+}
+h1,h2{
+    font-family: 'Segoe UI';
+    color: #f0ebeb;
+    text-align: center;
+}
+.education {
+    font-size: 24px;
+    padding: 3px;
+    margin-left: 5%;
+}
+.dates, .work{
+    font-size: 34px;
+    padding: 13px;
+    margin-left: 5%;
+}
+.experience{
+    display: flex;
+    padding: 5px;
+}
+.skills{
+    display: flex;
+    margin-left: 5%;
+    font-size: 34px;
+}
+.stars {
+    margin-left: 10%;
+}
+.skills1{
+    margin-top: 1%;
+}
+.links{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    
+}
+button{
+    font-size: 30px;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: #350f7c;
+    color: #fff;
+}
+button:hover{
+    font-size: 32px;
+}
